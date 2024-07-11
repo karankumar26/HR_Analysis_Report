@@ -9,7 +9,7 @@ Tableau, a powerful data visualization tool, played a pivotal role in bringing m
 
  ## Report Snapshot
 
-
+![HR Analysis](https://github.com/karankumar26/HR_Analysis_Report/assets/147133944/8e0f4fa7-0a76-4e4d-b312-e137bd1e4c8b)
 
 ## Vizualization
 #### 1. Department-wise Attrition
